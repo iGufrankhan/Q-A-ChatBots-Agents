@@ -1,0 +1,6 @@
+project_1
+.env
+venv
+__pycache__
+*.pyc
+.
