@@ -31,3 +31,5 @@ pytube
 numexpr
 huggingface_hub
  gradio
+ boto3
+awscli
