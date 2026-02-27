@@ -34,6 +34,11 @@ huggingface_hub
  boto3
 awscli
 openai
+youtube-transcript-api
 
 
 langchain_nvidia_ai_endpoints
+crewai
+crewai_tools
+load_dotenv
+langchain-huggingface
