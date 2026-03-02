@@ -1,0 +1,8 @@
+neo4j==5.14
+langchain
+langchain_core
+langchain_community
+langchain_groq
+python-dotenv
+ipykernel
+langchain-neo4j
