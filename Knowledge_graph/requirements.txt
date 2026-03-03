@@ -1,8 +1,9 @@
 neo4j==5.14
 langchain
-langchain_core
 langchain_community
+langchain_openai
 langchain_groq
 python-dotenv
+streamlit
+langchain_experimental
 ipykernel
-langchain-neo4j
