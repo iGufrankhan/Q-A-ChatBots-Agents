@@ -6,7 +6,7 @@ from agents import blog_researcher, blog_writer
 from toolsp import YouTubeRAGTool
 
 
-# 🔥 STEP 1 — Load YouTube transcript
+
 youtube_url = "https://www.youtube.com/watch?v=I2wURDqiXdM"
 topic = "AI vs ML vs DL vs Data Science"
 

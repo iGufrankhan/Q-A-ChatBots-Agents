@@ -42,3 +42,5 @@ crewai
 crewai_tools
 load_dotenv
 langchain-huggingface
+langchain_experimental
+lamini
